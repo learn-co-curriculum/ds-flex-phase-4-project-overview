@@ -47,12 +47,14 @@ Getting Started:
 ----------------
 
 
-When you're ready to begin the project, you will need to complete the Project Proposal.
+When you're ready to begin the project, we recommend you do three things:
 
-Once the Project Proposal has been graded by your instructor, we recommend you do two things:
 
-1. Create your GitHub repository where you can save all of your work
-2. Schedule a Project Review session ***with an instructor other than your One-on-One Lead*** [(https://go.oncehub.com/ODSPhase4ProjectReviews)](https://go.oncehub.com/ODSPhase4ProjectReviews)
+1. Message your One-on-One Lead on Slack and indicate you've begun the project.
+	- **If you are going to choose your own dataset, you must get it approved by your instructor!**
+		- Check the Phase 4 Project Assignment for the requirements.
+2. Create your GitHub repository where you can save all of your work
+3. Schedule a Project Review session ***with an instructor other than your One-on-One Lead*** [(https://go.oncehub.com/ODSPhase4ProjectReviews)](https://go.oncehub.com/ODSPhase4ProjectReviews)
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
 
 
