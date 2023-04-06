@@ -2,14 +2,9 @@
 -------------------------
 
 
-After completing Topics 33-43, you should be all set to tackle the Phase 4 Project! [[Assignment Link 🔗 ]()]
-
-
-The Phase 4 Project is actually made of 4 different types of projects. You are free to select from any of the 4 options. For option, you are allowed to propose your own datasets to you, instead of the provided ones.
-
+You are now all set to tackle the Phase 4 Project! [[Assignment Link 🔗 ]()]
 
 Overall the project should take 20-40 hours to complete. To stay on pace, you should aim to complete the project in the following # of weeks:
-
 
 * 20-week pace: 1 week
 * 40-week pace: 2 weeks
